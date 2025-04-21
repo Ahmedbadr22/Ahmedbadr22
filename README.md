@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Badr</h1>
-<h3 align="center">Jr Android Developer</h3>
+<h3 align="center">Jr Android Developer (2 years of experience)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedbadr22&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbadr22" /> </p>
 
-- 🌱 I’m currently learning **CI/CD**
+- 🧍🏻My age is **24 years old**
+
+- 🏢 I'm working @ **JRM for Communications**
 
 - 💬 Ask me about **Android, Kotlin, Mobile Development, Machine Learning**
 
